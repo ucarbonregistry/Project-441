@@ -10,8 +10,7 @@ Scale of the project activity: Large Scale
 Project Participants Project Proponent: M/s Sahakar Maharshi
 Shivajirao Narayanrao Nagawade Sahakari
 Sakhar Karkhana Ltd. A/P Shrigonda
-Factory Tal. Shrigonda, Dist. Ahmednagar
-- 413726
+Factory Tal. Shrigonda, Dist. Ahmednagar - 413726
 
 Host Party India
 
