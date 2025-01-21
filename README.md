@@ -130,3 +130,29 @@ gets completed.
  After reviewing all the damage assessment reports and responses from the respondents
 (Project proponent), the Maharashtra Pollution Control Board (MPCB) granted consent
 to operate to the project proponent. 
+__________
+
+ISSUANCE DATE: 21/01/2025
+
+QTY: 60871 CoUs
+
+MP DATE:2021-2023
+______________
+Serial Number: 0001-000001-010665-UCR-CoU-IN-441-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity:10665
+_____________
+Serial Number: 0001-010666-038356-UCR-CoU-IN-441-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 27691
+_____________
+Serial Number: 0001-038357-060871-UCR-CoU-IN-441-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 22515
+__________
