@@ -23,9 +23,22 @@ Emission Factor
 
 Sectoralscopes 01 Energy industries (Renewable/NonRenewable Sources)
 
-Estimated total amount of average GHG
-emission reductions per year
-15,336 tCO2eq/yr or (15,336CoU/yr)
+MP-01 Crediting Date: 01/01/2021 to 31/12/2023 (inclusive of both dates)
+
+The 01/01/2021 start date ensures that all credited emissions reductions or energy generation
+activities are in full compliance with the relevant guidelines and accurately reflect the operational
+reality of the project.
+
+The change in the crediting date is due to:
+
+ The non-compliance with UCR guidelines in 2019 due to the high percentage of fossil fuels in
+the fuel mix. (Greater than 25%)
+
+ The lack of operational activities in 2020 because of the sugar factory was closed.
+The 01/01/2021 start date ensures that all credited emissions reductions or energy generation
+activities are in full compliance with the relevant guidelines and accurately reflect the operational
+reality of the project.
+
 _______________
 The Project Titled “26 MW Bagasse based Co-generation by “M/s Sahakar Maharshi
 Shivajirao Narayanrao Nagawade Sahakari Sakhar Karkhana Ltd.” is a bagasse-based CoGeneration (co- gen) Power Project successfully commissioned by Maharashtra State
@@ -62,3 +75,58 @@ as a part of first monitoring and verification.
 The project activity employs 26 MW aggregated generator along with a boiler of 140 TPH
 with high pressure and temperature configuration (87Kg/Cm², 515°C).
 ______________________
+DO NO NET HARM CLARIFICATION
+
+A case was filed in the National Green Tribunal (NGT) concerning an explosion at a sugar
+factory. The incident involved the rupture of a molasses tank, leading to the release of
+untreated sewage into the Ghod River. Following the accident, the factory management
+promptly reported the incident to regulatory authorities, including the Maharashtra
+Pollution Control Board (MPCB). On the same day, February 10, 2022, MPCB officials
+visited the site and prepared an onsite observation report. The report link is provided below.
+(https://greentribunal.gov.in/sites/default/files/news_updates/Joint%20Committee%20Repor
+t%20in%20OA%20No.85-2022%20(page%20nos.91-124).pdf)
+
+ Subsequently, following the NGT application no. 85/2022 (WZ) and caveat no. 12/2022, the
+state pollution control board issued directives to the factory to prepare a damage assessment
+report. In response, the factory management engaged Vasantdada Sugar Institute (VSI),
+Pune, to conduct the damage assessment. VSI is an NABET-accredited Environment
+Impact Assessment (EIA) consultant. The detail link of damage assessment report (DAR) is
+given below,
+
+(https://drive.google.com/file/d/14CmzuMY076EpseKBG2MwavHPliR3mGaS/view?usp=sh
+aring)
+
+Some highlights of remedies taken by project proponent are as follow, same also mentioned in
+DAR.
+
+ The factory management took immediate action to control and remove the molasses from
+outside premises. In the control action, the management took following steps:
+
+ Stopped the flow of molasses in the natural drainage (nalla) by constructing temporary
+bunds.
+
+ Deployed tankers to collect the molasses from the nalla
+
+ Used vehicle mount diesel engine pumps to collect the molasses in tankers.
+
+ Brought the tankers to the factory premises and stored the molasses from tankers into spent
+wash storage constructed lagoons of distillery unit.
+
+ Used scraping material such as bagasse to prevent spread of molasses in the surrounding
+field.
+
+ The management could able to control and restrict the flow of molasses within 800 m
+(aerial distance) from the distillery premises.
+
+ Prevented the spread molasses in the surrounding agriculture and/ or open land to maximum
+extent.
+
+ Closed the distillery operation till the action of molasses removal from natural environment
+gets completed.
+
+ Reply on behalf of respondent (Project proponent) in this case,
+(https://greentribunal.gov.in/sites/default/files/news_updates/Reply%20by%20R1%20in%20OA%20No.85-2022%20(page%20nos.160-243).pdf)
+
+ After reviewing all the damage assessment reports and responses from the respondents
+(Project proponent), the Maharashtra Pollution Control Board (MPCB) granted consent
+to operate to the project proponent. 
