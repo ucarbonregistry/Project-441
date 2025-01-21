@@ -1,9 +1,11 @@
 # Project-441
 26 MW Bagasse based Co-generation by M/s Sahakar Maharshi Shivajirao Narayanrao Nagawade Sahakari Sakhar Karkhana Ltd. Dist. Ahmednagar, Maharashtra
 
-First CoU Issuance Period: 28/08/2019 to 31-12-2023 (04 Years 4 months 3day)
+First CoU Issuance Period as per PCN: 28/08/2019 to 31-12-2023 (04 Years 4 months 3day)
 
-Crediting Period: 28/08/2019 to 31-12-2023 (04 Years and 4 months 3day) 
+Crediting Period as per PCN: 28/08/2019 to 31-12-2023 (04 Years and 4 months 3day) 
+____________________
+REVISED 1ST Crediting and ISSUANCE Dates: 01/01/2021 to 31/12/2023 (inclusive of both dates)
 ______________
 Scale of the project activity: Large Scale
 
